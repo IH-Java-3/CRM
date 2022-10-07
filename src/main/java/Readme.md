@@ -8,12 +8,13 @@ We can explain with this diagramm:
 
 ### Case Diagram
 
-![image](https://user-images.githubusercontent.com/108800755/194550396-380ce9bc-3f71-4d62-a164-73206eb4fcfa.png)
+![image](https://user-images.githubusercontent.com/108800755/194551013-946f0e68-95bf-45c2-955c-88706b43dbed.png)
+
 
 
 ### Class Diagram
 
-![image](https://user-images.githubusercontent.com/108800755/194550531-81939f82-f313-4b47-8bd1-535271a07cf5.png)
+![image](https://user-images.githubusercontent.com/108800755/194550957-a79ab74e-1da6-48b7-840e-25253cbf3dda.png)
 
 
 
