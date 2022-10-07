@@ -125,8 +125,8 @@ public class Main {
                         throw new InputMismatchException("\u001B[31m"+"El número debe estar entre 1 y 3"+"\u001B[0m");
                     else salir2 = true;
                 } catch (InputMismatchException | IllegalArgumentException e) {
-                    System.out.println("\u001B[31m"+"Debes insertar un número"+"\u001B[0m");
-                    sn.next();
+                    System.out.println("\u001B[31m"+"Debes insertar un número entre 1 y 3"+"\u001B[0m");
+                    sn.nextLine();
                 }
 
             }
@@ -173,8 +173,8 @@ public class Main {
             boolean salir2 = false;
             while (!salir2) {
                 int opcion;
-                System.out.println("1. Lead Won");
-                System.out.println("2. Lead Closed");
+                System.out.println("1. Lead Closed - Won");
+                System.out.println("2. Lead Closed - Lost");
                 System.out.println("3. Back to main menu");
                 System.out.print("Escribe una de las opciones: ");
                 try {
