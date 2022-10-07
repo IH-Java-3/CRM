@@ -1,6 +1,6 @@
 # New CRM 
 
-built with Java and Junit.
+Built with Java and Junit.
 
 ## What's and can CRM do? 
 
